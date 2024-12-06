@@ -1,4 +1,4 @@
-﻿using Blik.Cli.Libs;
+﻿using cli.libs;
 
 class Program
 {

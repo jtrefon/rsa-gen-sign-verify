@@ -1,6 +1,6 @@
 using System.Security.Cryptography;
 
-namespace Blik.Cli.Libs;
+namespace cli.libs;
 
 public class RsaKeyGenerator
 {
